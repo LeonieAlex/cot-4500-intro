@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print(" ".join(map(str,row)))
 
   #2. Print the 3x3 matrix from #1 and then add 3 to every cell where i ≠j  
-  secondMatrix = np.array([[0, 0, 0],[0,0,0],[0,0,0]])
+  secondMatrix = firstMatrix
   for i in 0, 1, 2:
     for j in 0, 1, 2:
       if(i != j):
