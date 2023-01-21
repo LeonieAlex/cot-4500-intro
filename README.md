@@ -11,3 +11,5 @@ Requirements.txt contains the third library, to run this program
 https://pip.pypa.io/en/stable/installation/
 2. Install everything in requirements.txt by 
 ```python -m pip install -r requirements.txt```
+3. Run the file
+```python3 src/main/intro_to_python.py```
